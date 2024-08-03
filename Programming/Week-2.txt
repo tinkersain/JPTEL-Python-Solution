@@ -1,0 +1,15 @@
+1.
+n = int(input())
+if n<0:
+    print(-n,end="")
+else:
+    print(n,end="")
+
+
+2.
+n=int(input())
+print(a+(n-1)*d,end="")
+
+3.
+n = int(input())
+print(n*(n+1)//2, end="")
